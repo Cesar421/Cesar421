@@ -2,6 +2,9 @@
 
 I'm Cesar and I'm following this path in order to convert into a Data Scientist, Im currently specialized in data technologies like Python (Pandas, NumPy, Scykit learn), SQL, Power BI, Tableau. Focused in create quality and high-performance software. Self-taught, I love learning about tech and I share posts about my favorite topics on my new blog.
 
+* 📫  How to reach me: cfgambat@unal.edu.co
+
+
 
 ```python
 def hi():
@@ -25,7 +28,9 @@ def Cesar421():
 
 ### Some Statistics about this Repository
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesar421&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar421&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesar421&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar421&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ### And here are some ideas to get me know a little bit:
 
