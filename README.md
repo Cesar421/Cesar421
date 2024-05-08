@@ -15,7 +15,7 @@ def hi():
 def Cesar421():
   my_information = {
     Pronouns: ["he", '|', "him"],
-    Code: ['Python', 'Matlab', 'Scilab', 'Visual Basic Application', ''Java'],
+    Code: ['Python', 'Matlab', 'Scilab', 'Visual Basic Application','Java'],
     Developer Tools: ['Visual Studio Code', 'NotePad++', 'Google Colaboratory', 'Texmaker', 'Git', 'Github', 'DVC', 'GitLab', 'PyCharm', 'intellij'],
     Libraries Technologies: ['Pandas', 'NumPy', 'Matplotlib', 'ScyPy', 'Statsmodels', 'Seaborn', 'Scikit-learn', 
     'Tensorflow', 'Keras', 'NLTK', 'SpaCy'],
