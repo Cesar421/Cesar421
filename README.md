@@ -31,9 +31,8 @@ def Cesar421():
 ### Some Statistics about this Repository
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesar421&theme=radical) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesar421)]([(https://github.com/Cesar421)])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar421&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesar421)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### And here are some ideas to get me know a little bit:
