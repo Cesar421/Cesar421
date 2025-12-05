@@ -33,7 +33,7 @@ def Cesar421():
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesar421&theme=radical) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesar421&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar421&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
